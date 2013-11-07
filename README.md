@@ -7,7 +7,7 @@ for that event.
 
 [![on-first](https://nodei.co/npm/on-first.png?mini=true)](https://nodei.co/npm/on-first)
 
-#### `require('first')(emitter, event, listener)` ####
+#### `require('on-first')(emitter, event, listener)` ####
 
 * `emitter` is the EventEmitter to listen to.
 * `event` is the event to listen to.
