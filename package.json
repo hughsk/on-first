@@ -1,7 +1,7 @@
 {
   "name": "on-first",
   "description": "Attach an EventEmitter listener that emits before all other existing listeners",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "browser": "index.js",
   "dependencies": {},
