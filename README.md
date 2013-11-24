@@ -3,6 +3,11 @@
 Attach an EventEmitter listener that emits before all other existing listeners
 for that event.
 
+Note: it's also worth checking out [timoxley](http://github.com/timoxley)'s
+[overshadow-listeners](http://github.com/timoxley/overshadow-listeners/). The
+API offers more flexibility, and unlike `on-first` only uses the public
+EventEmitter API.
+
 ## Usage ##
 
 [![on-first](https://nodei.co/npm/on-first.png?mini=true)](https://nodei.co/npm/on-first)
